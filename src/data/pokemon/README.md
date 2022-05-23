@@ -47,7 +47,7 @@ la victoria del combate Pokémon.
 
 ![protipoBaja](https://raw.githubusercontent.com/Slacusc/SCL020-data-lovers/main/src/imgReadme/prototipoBaja.png)
 
-## Diseño
+## Imagen visual
 
 ### Imagen de referencia
 
